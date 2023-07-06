@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FAQ/faq.0.0.1.ru.md",
+                "file": "FAQ/new-games-suggestions.ru.0.0.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FAQ/faq.0.0.1.ru.md",
+                "file": "FAQ/new-games-suggestions.ru.0.0.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FAQ/faq.0.0.1.ru.md",
+                "file": "FAQ/new-games-suggestions.ru.0.0.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FAQ/faq.0.0.1.ru.md"
+                "file": "FAQ/new-games-suggestions.ru.0.0.1.md"
               }
             }
           }
@@ -148,8 +148,14 @@
   },
   "active": "f250a95f0aedb8ac",
   "lastOpenFiles": [
-    "FAQ.md",
+    "FAQ/hybrid-board-games-exmpalnation.ru.0.0.1.md",
+    "FAQ/how-to-join-agile.fans.ru.0.0.1.md",
     "FAQ/faq.0.0.1.ru.md",
+    "FAQ/why-preorders-product-cycle.ru.0.0.1.md",
+    "FAQ/why-download-free.ru.0.0.1.md",
+    "FAQ/new-games-suggestions.ru.0.0.1.md",
+    "FAQ/technologies-stack.ru.0.0.1.md",
+    "FAQ.md",
     "FAQ",
     "KanbanKitDescription.ru.0.3.4.md"
   ]
