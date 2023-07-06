@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KanbanKitDescription.ru.md",
+                "file": "KanbanKitDescription.v.0.3.4.ru.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KanbanKitDescription.ru.md",
+                "file": "KanbanKitDescription.v.0.3.4.ru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KanbanKitDescription.ru.md",
+                "file": "KanbanKitDescription.v.0.3.4.ru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KanbanKitDescription.ru.md"
+                "file": "KanbanKitDescription.v.0.3.4.ru.md"
               }
             }
           }
@@ -146,8 +146,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f250a95f0aedb8ac",
+  "active": "7c0ec62208bb98ca",
   "lastOpenFiles": [
-    "KanbanKitDescription.ru.md"
+    "KanbanKitDescription.v.0.3.4.ru.md"
   ]
 }
